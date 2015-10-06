@@ -1,0 +1,9 @@
+colorscheme badwolf
+set number
+set ruler
+set cursorline
+set showmode
+set showcmd
+set showmatch
+set clipboard+=unnamed
+syntax on
